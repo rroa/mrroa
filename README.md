@@ -1,4 +1,4 @@
-mrroa
+Mr. Roa's code repository.
 =====
 
-Repository for the examples of Mr. Roa's technical articles.
+This is meant to be a repository for the examples of Mr. Roa's technical articles.
